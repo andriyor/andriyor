@@ -92,10 +92,3 @@ ___
 
 [forkwork Search living repository by fork](https://github.com/github-tooling/forkwork)
 
-
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=andriyor&include_orgs=true" alt="Andrii Oriekhov Github stats" />
-</a>
-</div>
