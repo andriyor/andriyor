@@ -2,6 +2,8 @@
 
 - CV: [pdf](https://raw.githubusercontent.com/andriyor/andriyor/master/andriyor.pdf)
 
+[environment](https://github.com/andriyor/environment)
+
 ### Pet projects sorted by creation date
 
 #### 2024
@@ -20,6 +22,8 @@
 
 #### 2023
 
+[node boilerplate](https://github.com/andriyor/node-boilerplate)
+
 [generic-include: Bundle text based files into one](https://github.com/andriyor/generic-include)
 
 [default2namedExport: Convert default export to named export](https://github.com/andriyor/default2namedExport)
@@ -29,6 +33,12 @@
 [css-modules-migration: Experiment with migrattion from css to css-modules](https://github.com/andriyor/css-modules-migration)
 
 [GitHub action which create PR with update of version of package after automated commit](https://github.com/andriyor/github-action-by-author)
+
+---
+
+[monobank api wrapper](https://github.com/andriyor/monobank-api)
+
+[export monobank data to different sources](https://github.com/andriyor/monobank-airtable)
 
 ---
 
