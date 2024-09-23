@@ -102,3 +102,9 @@ ___
 
 [forkwork Search living repository by fork](https://github.com/github-tooling/forkwork)
 
+
+Related issues:
+
+[Create groups of repositories · community · Discussion #41348](https://github.com/orgs/community/discussions/41348)
+
+[[Projects Beta] Sort by "last updated", "created" · community · Discussion #8518](https://github.com/orgs/community/discussions/8518)
