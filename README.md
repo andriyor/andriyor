@@ -8,4 +8,6 @@
 
 [open source PRs](prs.md)
 
+[projects by category](projects.md)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriyor)](https://github.com/anuraghazra/github-readme-stats)
