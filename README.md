@@ -1,13 +1,22 @@
-### Hi there 👋
+### Andrii Oriekhov — JavaScript / TypeScript developer
 
-- CV: [pdf](https://raw.githubusercontent.com/andriyor/andriyor/master/andriyor.pdf)
+6 years of experience · Ukraine · English B2 · andriyorehov@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrii-oriekhov-8b8724103/) · [HackerOne](https://hackerone.com/oreh?type=user) · [CV pdf](https://raw.githubusercontent.com/andriyor/andriyor/master/andriyor.pdf)
 
-[environment](https://github.com/andriyor/environment)
+I'm a passionate programmer who keeps learning new tools and technologies — in my free time I watch tech talks, read engineering articles and build pet projects. I believe fundamentals matter more than the language: algorithms, concepts and critical thinking. I enjoy AST tooling, codemods and developer tools, and working on products where the impact is visible.
 
-[pet-project-by-year.md](pet-project-by-year.md)
+**Stack:** TypeScript, React, Next.js, Node.js (Express), react-query, Redux, Jest, Vitest, Playwright, Storybook, Vite, pnpm monorepos, GitHub Actions. Also: Ember, Vue, Angular, Python (Django, Flask), PostgreSQL, MongoDB.
 
-[open source PRs](prs.md)
+#### Experience — SPD Ukraine, 2020 – present
 
-[projects by category](projects.md)
+- **Commerce platform** (2021 – present) — React SPA reporting system; migrating features from a large Ember app to React; i18n coverage
+- **Metadata-driven app builder** (2021) — reusable React components, REST API design with backend team, refactoring with tests
+- **Medical ERP** (2020 – 2021) — metadata-driven components, Playwright e2e setup, i18n tooling, onboarding new members
+- **Internal task tracker** — Angular + ngrx: release management, kanban board
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriyor)](https://github.com/anuraghazra/github-readme-stats)
+Earlier: Angular internship at eKreative (2020); CHDTU university project — cut table page TTI 5× by migrating to ag-grid (2018 – 2019). MSc in Computer Science, Cherkasy State Technological University.
+
+#### More
+
+[Projects by category](projects.md) · [by year](pet-project-by-year.md) · [Open source contributions](prs.md) · [environment](https://github.com/andriyor/environment)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=andriyor)](https://github.com/anuraghazra/github-readme-stats)
