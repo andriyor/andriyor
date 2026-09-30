@@ -6,7 +6,7 @@
 | [vitest-dev/eslint-plugin-vitest#770](https://github.com/vitest-dev/eslint-plugin-vitest/pull/770) | 512 | New lint rule `prefer-import-in-mock` + docs + tests |
 | [dmtrKovalenko/date-io#445](https://github.com/dmtrKovalenko/date-io/pull/445) [#447](https://github.com/dmtrKovalenko/date-io/pull/447) [#444](https://github.com/dmtrKovalenko/date-io/pull/444) | 755 | New API (units in `diff`, utils by units, `getDaysInMonth`) across all date adapters + tests |
 | [PSeitz/ts-dependency-graph#21](https://github.com/PSeitz/ts-dependency-graph/pull/21) | 214 | Replaced custom module resolution with TypeScript API |
-| [authlib/loginpass#10](https://github.com/authlib/loginpass/pull/10) [#5](https://github.com/authlib/loginpass/pull/5) [#9](https://github.com/authlib/loginpass/pull/9) [#7](https://github.com/authlib/loginpass/pull/7) | 320 | OAuth backends: VK, Spotify, Twitch, Yandex |
+| [authlib/loginpass#5](https://github.com/authlib/loginpass/pull/5) [#9](https://github.com/authlib/loginpass/pull/9) | 320 | OAuth backends: Spotify, Twitch |
 | [un33k/python-slugify#66](https://github.com/un33k/python-slugify/pull/66) | 1625 | User-specific replacements |
 | [SimonIT/spotifylyrics#6](https://github.com/SimonIT/spotifylyrics/pull/6) | 363 | Lyrics caching |
 
@@ -184,7 +184,7 @@
 | [wummel/patool](https://github.com/wummel/patool) | 456 | [#111](https://github.com/wummel/patool/pull/111) |
 | [mcfletch/pyopengl](https://github.com/mcfletch/pyopengl) | 416 | [#80](https://github.com/mcfletch/pyopengl/pull/80) |
 | [SimonIT/spotifylyrics](https://github.com/SimonIT/spotifylyrics) | 363 | [#6](https://github.com/SimonIT/spotifylyrics/pull/6) |
-| [authlib/loginpass](https://github.com/authlib/loginpass) | 320 | [#5](https://github.com/authlib/loginpass/pull/5) [#7](https://github.com/authlib/loginpass/pull/7) [#9](https://github.com/authlib/loginpass/pull/9) [#10](https://github.com/authlib/loginpass/pull/10) |
+| [authlib/loginpass](https://github.com/authlib/loginpass) | 320 | [#5](https://github.com/authlib/loginpass/pull/5) [#9](https://github.com/authlib/loginpass/pull/9) |
 | [johnpaulett/python-hl7](https://github.com/johnpaulett/python-hl7) | 318 | [#45](https://github.com/johnpaulett/python-hl7/pull/45) |
 | [JMPerez/passport-spotify](https://github.com/JMPerez/passport-spotify) | 315 | [#76](https://github.com/JMPerez/passport-spotify/pull/76) |
 | [cloudinary/pycloudinary](https://github.com/cloudinary/pycloudinary) | 262 | [#312](https://github.com/cloudinary/pycloudinary/pull/312) |
