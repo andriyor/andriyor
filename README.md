@@ -4,7 +4,8 @@
 
 [environment](https://github.com/andriyor/environment)
 
-[Pet projects ordered by creation date](https://oreh.uk/blog/projects/)
+[pet-project-by-year.md](pet-project-by-year.md)
 
+[open source PRs](prs.md)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriyor)](https://github.com/anuraghazra/github-readme-stats)
