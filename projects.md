@@ -77,6 +77,7 @@
 ## Hardware & IoT
 
 - [KlipschControl](https://github.com/andriyor/KlipschControl) — fast, simple iOS remote control for Klipsch The Fives, Sevens and Nines speakers over Bluetooth LE (SwiftUI, CoreBluetooth)
+- [hacs_waveshare_ups_hat](https://github.com/andriyor/hacs_waveshare_ups_hat) — fork of the Home Assistant Waveshare UPS HAT integration adding UPS HAT (E) support, tested on a Raspberry Pi 5 ([upstream PR](https://github.com/mykhailog/hacs_waveshare_ups_hat/pull/24))
 - [knob-to-key](https://github.com/andriyor/knob-to-key) — rotary encoder to keyboard input via Linux evdev
 - [dht11-kafka](https://github.com/andriyor/dht11-kafka) — DHT11 sensor data to Kafka
 

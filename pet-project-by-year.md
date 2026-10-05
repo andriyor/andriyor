@@ -3,6 +3,8 @@
 
 [KlipschControl: Fast, simple iOS remote control for Klipsch The Fives, Sevens and Nines speakers over Bluetooth LE](https://github.com/andriyor/KlipschControl)
 
+[hacs_waveshare_ups_hat: Home Assistant Waveshare UPS HAT integration fork with UPS HAT (E) support](https://github.com/andriyor/hacs_waveshare_ups_hat)
+
 [obsidian-todo-sidebar: Obsidian plugin that lists the checkboxes of the currently open note in a sidebar, with click-to-toggle and click-to-jump.](https://github.com/andriyor/obsidian-todo-sidebar)
 
 
