@@ -1,6 +1,8 @@
 
 ### 2026
 
+[KlipschControl: Fast, simple iOS remote control for Klipsch The Fives, Sevens and Nines speakers over Bluetooth LE](https://github.com/andriyor/KlipschControl)
+
 [obsidian-todo-sidebar: Obsidian plugin that lists the checkboxes of the currently open note in a sidebar, with click-to-toggle and click-to-jump.](https://github.com/andriyor/obsidian-todo-sidebar)
 
 

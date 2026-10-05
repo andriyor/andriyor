@@ -76,6 +76,7 @@
 
 ## Hardware & IoT
 
+- [KlipschControl](https://github.com/andriyor/KlipschControl) — fast, simple iOS remote control for Klipsch The Fives, Sevens and Nines speakers over Bluetooth LE (SwiftUI, CoreBluetooth)
 - [knob-to-key](https://github.com/andriyor/knob-to-key) — rotary encoder to keyboard input via Linux evdev
 - [dht11-kafka](https://github.com/andriyor/dht11-kafka) — DHT11 sensor data to Kafka
 
