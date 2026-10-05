@@ -1,8 +1,14 @@
-# Experience
+# Andrii Oriekhov — Full-Stack TypeScript Engineer
+
+6+ years of experience · Ukraine · English B2 · andriyorehov@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrii-oriekhov-8b8724103/) · [HackerOne](https://hackerone.com/oreh?type=user) · [CV pdf](https://raw.githubusercontent.com/andriyor/andriyor/master/andriyor.pdf)
+
+I enjoy AST tooling, codemods, developer tools and graphs, and working on products where the impact is visible. Active open source contributor with 200+ merged PRs, from new features and lint rules to bug fixes and docs in popular JavaScript and Python projects.
 
 **Stack:** TypeScript, React, Next.js, Node.js (Express), GraphQL, React Query, Redux Toolkit, Tailwind CSS, Kafka, Redis, PostgreSQL, Docker, Jest, Vitest, Playwright, Storybook, Vite, pnpm monorepos, GitHub Actions. Also: Ember, Vue, Angular, Python (Django, Flask), MongoDB.
 
-## SPD Ukraine, 2020 – present
+## Experience
+
+### SPD Ukraine, 2020 – present
 
 - **FinTech / payments platform for businesses** (2021 – present) — 20+ repositories
   - Merchant financial reporting used by thousands of merchants: sales, settlements, payouts, fees and tips, from calculation logic to the interactive React UI
@@ -19,4 +25,14 @@
 - **Internal task tracker** (06/2020 – 09/2020) — release management, kanban board, time tracking, project relation management
   - *Stack:* Angular, NgRx
 
-Earlier: Angular internship at eKreative (2020); CHDTU university project — cut table page TTI 5× by migrating to ag-grid (2018 – 2019). MSc in Computer Science, Cherkasy State Technological University.
+### Earlier
+
+Angular internship at eKreative (2020); CHDTU university project — cut table page TTI 5× by migrating to ag-grid (2018 – 2019).
+
+## Education
+
+MSc in Computer Science, Cherkasy State Technological University.
+
+## Links
+
+[GitHub](https://github.com/andriyor) · [Projects by category](https://github.com/andriyor/andriyor/blob/master/projects.md) · [Projects by year](https://github.com/andriyor/andriyor/blob/master/pet-project-by-year.md) · [Open source contributions](https://github.com/andriyor/andriyor/blob/master/prs.md)
