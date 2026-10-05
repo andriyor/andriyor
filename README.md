@@ -2,7 +2,7 @@
 
 6+ years of experience · Ukraine · English B2 · andriyorehov@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrii-oriekhov-8b8724103/) · [HackerOne](https://hackerone.com/oreh?type=user) · [CV pdf](https://raw.githubusercontent.com/andriyor/andriyor/master/andriyor.pdf)
 
-I'm a passionate programmer who keeps learning new tools and technologies — in my free time I watch tech talks, read engineering articles and build pet projects. I believe fundamentals matter more than the language: algorithms, concepts and critical thinking. I enjoy AST tooling, codemods and developer tools, and working on products where the impact is visible.
+I enjoy AST tooling, codemods and developer tools, and working on products where the impact is visible. Active open source contributor with 200+ merged PRs, from new features and lint rules to bug fixes and docs in popular JavaScript and Python projects.
 
 **Stack:** TypeScript, React, Next.js, Node.js (Express), GraphQL, React Query, Redux Toolkit, Tailwind CSS, Kafka, Redis, PostgreSQL, Docker, Jest, Vitest, Playwright, Storybook, Vite, pnpm monorepos, GitHub Actions. Also: Ember, Vue, Angular, Python (Django, Flask), MongoDB.
 
@@ -20,7 +20,7 @@ I'm a passionate programmer who keeps learning new tools and technologies — in
   - *Stack:* TypeScript, React, React Query, Redux, Jest
 - **Medical ERP** (09/2020 – 10/2021) — schema-driven client application; appointment scheduling calendar for doctor visits; Playwright e2e setup, i18n tooling, onboarding new members
   - *Stack:* React, Chart.js, FullCalendar, Jest, Playwright
-- **Internal task tracker** (3 months) — release management, kanban board, time tracking
+- **Internal task tracker** (06/2020 – 09/2020) — release management, kanban board, time tracking, project relation management
   - *Stack:* Angular, NgRx
 
 Earlier: Angular internship at eKreative (2020); CHDTU university project — cut table page TTI 5× by migrating to ag-grid (2018 – 2019). MSc in Computer Science, Cherkasy State Technological University.
