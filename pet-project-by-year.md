@@ -9,6 +9,10 @@
 
 
 ### 2025
+[oreh-front: Task graph and time tracker: tree of tasks with timers, tags, due dates and recurring tasks](https://github.com/andriyor/oreh-front)
+
+[oreh-backend: API for OREH task graph and time tracker on Fastify and PostgreSQL](https://github.com/andriyor/oreh-backend)
+
 [remark-youtube: Remark plugin to converts YouTube embed to a Markdown thumbnail](https://github.com/andriyor/remark-youtube)
 
 [dht11-kafka](https://github.com/andriyor/dht11-kafka)
