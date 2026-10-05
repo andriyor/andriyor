@@ -20,7 +20,7 @@ I'm a passionate programmer who keeps learning new tools and technologies — in
   - *Stack:* React
 - **Medical ERP** (09/2020 – 10/2021) — schema-driven client application; appointment scheduling calendar for doctor visits; Playwright e2e setup, i18n tooling, onboarding new members
   - *Stack:* React, Chart.js, FullCalendar, Jest, Playwright
-- **Internal task tracker** — release management, kanban board, time tracking
+- **Internal task tracker** (3 months) — release management, kanban board, time tracking
   - *Stack:* Angular, NgRx
 
 Earlier: Angular internship at eKreative (2020); CHDTU university project — cut table page TTI 5× by migrating to ag-grid (2018 – 2019). MSc in Computer Science, Cherkasy State Technological University.
