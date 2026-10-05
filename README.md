@@ -9,10 +9,11 @@ I'm a passionate programmer who keeps learning new tools and technologies — in
 #### Experience — SPD Ukraine, 2020 – present
 
 - **FinTech / payments platform for small businesses** (2021 – present) — 20+ repositories
-  - Merchant financial reporting: sales, settlements, payouts, fees and tips, from calculation logic to the interactive React UI
+  - Merchant financial reporting used by thousands of merchants: sales, settlements, payouts, fees and tips, from calculation logic to the interactive React UI
   - Interactive real-time reports on a new data platform, with async generation for large reports
   - Revenue features: credit card surcharges, same-day payouts, deferred fees; 1099-K tax and bank-account onboarding flows
   - Frontend modernization: Next.js 13 / React 18, RTK Query and React Query, Jest → Vitest, Lerna → pnpm workspaces, ESLint 9, strict TypeScript; migrating features from a large Ember app to React
+  - Code health: continuous dead-code and unused-dependency cleanup across multiple repositories, enforced with Knip in CI; removed barrel files and default exports in favor of named exports, adopted modern JS and ESM builds; eliminated circular dependencies, raised test coverage
   - Monitoring and alerts for payment failures; scheduled Playwright e2e suites
   - *Stack:* TypeScript, React, Next.js, Vite, Redux Toolkit, React Query, Tailwind CSS, Storybook, Node.js, Express, GraphQL, Cube.js, Kafka, Redis, PostgreSQL, MySQL, AWS (EC2, S3), Docker, Vitest, Jest, Playwright, Cypress, Elastic APM, GitHub Actions
 - **Metadata-driven app builder** (07/2021 – 10/2021) — system for modeling business entities and processes; reusable React components, REST API design with backend team, refactoring with tests
