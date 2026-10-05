@@ -2,7 +2,7 @@
 
 6+ years of experience · Ukraine · English B2 · andriyorehov@gmail.com · [LinkedIn](https://www.linkedin.com/in/andrii-oriekhov-8b8724103/) · [HackerOne](https://hackerone.com/oreh?type=user) · [CV pdf](https://raw.githubusercontent.com/andriyor/andriyor/master/andriyor.pdf)
 
-I enjoy AST tooling, codemods and developer tools, and working on products where the impact is visible. Active open source contributor with 200+ merged PRs, from new features and lint rules to bug fixes and docs in popular JavaScript and Python projects.
+I enjoy AST tooling, codemods, developer tools and graphs, and working on products where the impact is visible. Active open source contributor with 200+ merged PRs, from new features and lint rules to bug fixes and docs in popular JavaScript and Python projects.
 
 **Stack:** TypeScript, React, Next.js, Node.js (Express), GraphQL, React Query, Redux Toolkit, Tailwind CSS, Kafka, Redis, PostgreSQL, Docker, Jest, Vitest, Playwright, Storybook, Vite, pnpm monorepos, GitHub Actions. Also: Ember, Vue, Angular, Python (Django, Flask), MongoDB.
 
