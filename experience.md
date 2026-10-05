@@ -4,7 +4,7 @@
 
 ## SPD Ukraine, 2020 – present
 
-- **FinTech / payments platform for small businesses** (2021 – present) — 20+ repositories
+- **FinTech / payments platform for businesses** (2021 – present) — 20+ repositories
   - Merchant financial reporting used by thousands of merchants: sales, settlements, payouts, fees and tips, from calculation logic to the interactive React UI
   - Interactive real-time reports on a new data platform, with async generation for large reports
   - Revenue features: credit card surcharges, same-day payouts, deferred fees; 1099-K tax center; bank-account linking (Plaid)

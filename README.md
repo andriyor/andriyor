@@ -6,7 +6,7 @@ I enjoy AST tooling, codemods, developer tools and graphs, and working on produc
 
 **Stack:** TypeScript, React, Next.js, Node.js, GraphQL, PostgreSQL, Kafka, Redis, Docker, Playwright, Vitest.
 
-At SPD Ukraine since 2020, mostly on a FinTech payments platform for small businesses: merchant financial reporting, payment features, frontend modernization and code health. [Full experience →](experience.md)
+At SPD Ukraine since 2020, mostly on a FinTech payments platform for businesses: financial reporting, payment features, frontend modernization and code health. [Full experience →](experience.md)
 
 [Projects by category](projects.md) · [by year](pet-project-by-year.md) · [Open source contributions](prs.md) · [environment](https://github.com/andriyor/environment)
 
