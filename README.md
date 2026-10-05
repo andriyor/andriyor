@@ -15,9 +15,12 @@ I'm a passionate programmer who keeps learning new tools and technologies — in
   - Frontend modernization: Next.js 13 / React 18, RTK Query and React Query, Jest → Vitest, Lerna → pnpm workspaces, ESLint 9, strict TypeScript; migrating features from a large Ember app to React
   - Monitoring and alerts for payment failures; scheduled Playwright e2e suites
   - *Stack:* TypeScript, React, Next.js, Vite, Redux Toolkit, React Query, Tailwind CSS, Storybook, Node.js, Express, GraphQL, Cube.js, Kafka, Redis, PostgreSQL, MySQL, AWS (EC2, S3), Docker, Vitest, Jest, Playwright, Cypress, Elastic APM, GitHub Actions
-- **Metadata-driven app builder** (2021) — reusable React components, REST API design with backend team, refactoring with tests
-- **Medical ERP** (2020 – 2021) — metadata-driven components, Playwright e2e setup, i18n tooling, onboarding new members
-- **Internal task tracker** — Angular + ngrx: release management, kanban board
+- **Metadata-driven app builder** (07/2021 – 10/2021) — system for modeling business entities and processes; reusable React components, REST API design with backend team, refactoring with tests
+  - *Stack:* React
+- **Medical ERP** (09/2020 – 10/2021) — schema-driven client application; appointment scheduling calendar for doctor visits; Playwright e2e setup, i18n tooling, onboarding new members
+  - *Stack:* React, Chart.js, FullCalendar, Jest, Playwright
+- **Internal task tracker** — release management, kanban board, time tracking
+  - *Stack:* Angular, NgRx
 
 Earlier: Angular internship at eKreative (2020); CHDTU university project — cut table page TTI 5× by migrating to ag-grid (2018 – 2019). MSc in Computer Science, Cherkasy State Technological University.
 
