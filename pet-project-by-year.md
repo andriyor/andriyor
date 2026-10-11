@@ -7,6 +7,8 @@
 
 [obsidian-todo-sidebar: Obsidian plugin that lists the checkboxes of the currently open note in a sidebar, with click-to-toggle and click-to-jump.](https://github.com/andriyor/obsidian-todo-sidebar)
 
+[astro-obsidian-base: Render Obsidian Bases (.base) tables in Astro sites](https://github.com/andriyor/astro-obsidian-base)
+
 
 ### 2025
 [oreh-front: Task graph and time tracker: tree of tasks with timers, tags, due dates and recurring tasks](https://github.com/andriyor/oreh-front)

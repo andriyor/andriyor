@@ -59,6 +59,7 @@
 ## Notes & markdown
 
 - [obsidian-todo-sidebar](https://github.com/andriyor/obsidian-todo-sidebar) — Obsidian plugin listing the current note's checkboxes in a sidebar
+- [astro-obsidian-base](https://github.com/andriyor/astro-obsidian-base) — render Obsidian Bases (.base) tables in Astro sites
 - [remark-youtube](https://github.com/andriyor/remark-youtube) — Remark plugin converting YouTube embeds to Markdown thumbnails
 - [journey-md](https://github.com/andriyor/journey-md) — convert Journey.Cloud diary export to Markdown
 - [blog](https://github.com/andriyor/blog) — personal blog (Astro)
