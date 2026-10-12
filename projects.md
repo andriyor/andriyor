@@ -60,7 +60,7 @@
 
 - [obsidian-todo-sidebar](https://github.com/andriyor/obsidian-todo-sidebar) — Obsidian plugin listing the current note's checkboxes in a sidebar
 - [astro-obsidian-base](https://github.com/andriyor/astro-obsidian-base) — render Obsidian Bases (.base) tables in Astro sites
-- [Obsidian-Big-Calendar](https://github.com/andriyor/Obsidian-Big-Calendar) — fork of the Big Calendar Obsidian plugin adding tag colors, daily note mood emoji and a side panel toggle, plus default filter, start day and filter refresh fixes (upstream PRs [#61](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/61) [#62](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/62) [#63](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/63) [#64](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/64))
+- [Obsidian-Big-Calendar](https://github.com/andriyor/Obsidian-Big-Calendar) — Big Calendar Obsidian plugin fork with tag colors and fixes
 - [remark-youtube](https://github.com/andriyor/remark-youtube) — Remark plugin converting YouTube embeds to Markdown thumbnails
 - [journey-md](https://github.com/andriyor/journey-md) — convert Journey.Cloud diary export to Markdown
 - [blog](https://github.com/andriyor/blog) — personal blog (Astro)
@@ -127,8 +127,36 @@
 
 ## Playgrounds, demos & test tasks
 
-- Testing: [express-integration-test](https://github.com/andriyor/express-integration-test), [vitest-msw](https://github.com/andriyor/vitest-msw), [playwright-playground](https://github.com/andriyor/playwright-playground), [playwright-react-pdf](https://github.com/andriyor/playwright-react-pdf), [react-storybook-example](https://github.com/andriyor/react-storybook-example)
-- Playgrounds: [typescript-playground](https://github.com/andriyor/typescript-playground), [react-playground](https://github.com/andriyor/react-playground), [express-playground](https://github.com/andriyor/express-playground), [graphql-playground](https://github.com/andriyor/graphql-playground), [ff-examples](https://github.com/andriyor/ff-examples), [eslint-remote-tester-example](https://github.com/andriyor/eslint-remote-tester-example), [ts-references-demo](https://github.com/andriyor/ts-references-demo)
-- React demos: [react-large-json-demo](https://github.com/andriyor/react-large-json-demo), [react-select-new-entity-demo](https://github.com/andriyor/react-select-new-entity-demo), [react-axios-cache-localstorage](https://github.com/andriyor/react-axios-cache-localstorage), [react-mui-dnd](https://github.com/andriyor/react-mui-dnd), [react-galery-pwa-ts](https://github.com/andriyor/react-galery-pwa-ts), [dynamic-component-use-memo](https://github.com/andriyor/dynamic-component-use-memo), [google-map-react-marker](https://github.com/andriyor/google-map-react-marker), [json-search](https://github.com/andriyor/json-search)
-- Bug repros: [pnpm-resolution-mode-bug](https://github.com/andriyor/pnpm-resolution-mode-bug), [next-module-graph](https://github.com/andriyor/next-module-graph)
-- Test tasks: [dynamic-form](https://github.com/andriyor/dynamic-form), [forms-builder](https://github.com/andriyor/forms-builder), [interceptors-github-api](https://github.com/andriyor/interceptors-github-api), [lazy-carousel](https://github.com/andriyor/lazy-carousel), [testtask-backend](https://github.com/andriyor/testtask-backend), [filldb-pg](https://github.com/andriyor/filldb-pg)
+- Testing
+  - [express-integration-test](https://github.com/andriyor/express-integration-test)
+  - [vitest-msw](https://github.com/andriyor/vitest-msw)
+  - [playwright-playground](https://github.com/andriyor/playwright-playground)
+  - [playwright-react-pdf](https://github.com/andriyor/playwright-react-pdf)
+  - [react-storybook-example](https://github.com/andriyor/react-storybook-example)
+- Playgrounds
+  - [typescript-playground](https://github.com/andriyor/typescript-playground)
+  - [react-playground](https://github.com/andriyor/react-playground)
+  - [express-playground](https://github.com/andriyor/express-playground)
+  - [graphql-playground](https://github.com/andriyor/graphql-playground)
+  - [ff-examples](https://github.com/andriyor/ff-examples)
+  - [eslint-remote-tester-example](https://github.com/andriyor/eslint-remote-tester-example)
+  - [ts-references-demo](https://github.com/andriyor/ts-references-demo)
+- React demos
+  - [react-large-json-demo](https://github.com/andriyor/react-large-json-demo)
+  - [react-select-new-entity-demo](https://github.com/andriyor/react-select-new-entity-demo)
+  - [react-axios-cache-localstorage](https://github.com/andriyor/react-axios-cache-localstorage)
+  - [react-mui-dnd](https://github.com/andriyor/react-mui-dnd)
+  - [react-galery-pwa-ts](https://github.com/andriyor/react-galery-pwa-ts)
+  - [dynamic-component-use-memo](https://github.com/andriyor/dynamic-component-use-memo)
+  - [google-map-react-marker](https://github.com/andriyor/google-map-react-marker)
+  - [json-search](https://github.com/andriyor/json-search)
+- Bug repros
+  - [pnpm-resolution-mode-bug](https://github.com/andriyor/pnpm-resolution-mode-bug)
+  - [next-module-graph](https://github.com/andriyor/next-module-graph)
+- Test tasks
+  - [dynamic-form](https://github.com/andriyor/dynamic-form)
+  - [forms-builder](https://github.com/andriyor/forms-builder)
+  - [interceptors-github-api](https://github.com/andriyor/interceptors-github-api)
+  - [lazy-carousel](https://github.com/andriyor/lazy-carousel)
+  - [testtask-backend](https://github.com/andriyor/testtask-backend)
+  - [filldb-pg](https://github.com/andriyor/filldb-pg)
