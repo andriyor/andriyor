@@ -60,6 +60,7 @@
 
 - [obsidian-todo-sidebar](https://github.com/andriyor/obsidian-todo-sidebar) — Obsidian plugin listing the current note's checkboxes in a sidebar
 - [astro-obsidian-base](https://github.com/andriyor/astro-obsidian-base) — render Obsidian Bases (.base) tables in Astro sites
+- [Obsidian-Big-Calendar](https://github.com/andriyor/Obsidian-Big-Calendar) — fork of the Big Calendar Obsidian plugin adding tag colors, daily note mood emoji and a side panel toggle, plus default filter, start day and filter refresh fixes (upstream PRs [#61](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/61) [#62](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/62) [#63](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/63) [#64](https://github.com/Quorafind/Obsidian-Big-Calendar/pull/64))
 - [remark-youtube](https://github.com/andriyor/remark-youtube) — Remark plugin converting YouTube embeds to Markdown thumbnails
 - [journey-md](https://github.com/andriyor/journey-md) — convert Journey.Cloud diary export to Markdown
 - [blog](https://github.com/andriyor/blog) — personal blog (Astro)

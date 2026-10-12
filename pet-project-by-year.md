@@ -9,6 +9,8 @@
 
 [astro-obsidian-base: Render Obsidian Bases (.base) tables in Astro sites](https://github.com/andriyor/astro-obsidian-base)
 
+[Obsidian-Big-Calendar: Big Calendar Obsidian plugin fork with tag colors, daily note mood, side panel toggle and filter/start day fixes](https://github.com/andriyor/Obsidian-Big-Calendar)
+
 
 ### 2025
 [oreh-front: Task graph and time tracker: tree of tasks with timers, tags, due dates and recurring tasks](https://github.com/andriyor/oreh-front)
