@@ -2,6 +2,8 @@
 
 | PR | Stars | What |
 |---|---|---|
+| [dsebastien/obsidian-life-tracker-base-view#176](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/176) | 242 | Optional auto-advance of capture after picking a value |
+| [Leonezz/obsidian-tasks-calendar-wrapper#189](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/189) [#191](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/191) | 262 | Newest-dates-first option; exclude tasks of notes by frontmatter property value |
 | [usebruno/bruno#5699](https://github.com/usebruno/bruno/pull/5699) | 47293 | Save response to the request's directory by default |
 | [vitest-dev/eslint-plugin-vitest#770](https://github.com/vitest-dev/eslint-plugin-vitest/pull/770) | 512 | New lint rule `prefer-import-in-mock` + docs + tests |
 | [dmtrKovalenko/date-io#445](https://github.com/dmtrKovalenko/date-io/pull/445) [#447](https://github.com/dmtrKovalenko/date-io/pull/447) [#444](https://github.com/dmtrKovalenko/date-io/pull/444) | 755 | New API (units in `diff`, utils by units, `getDaysInMonth`) across all date adapters + tests |
@@ -14,6 +16,8 @@
 
 | PR | Stars | What |
 |---|---|---|
+| [dsebastien/obsidian-life-tracker-base-view#173](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/173) [#174](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/174) [#175](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/175) | 242 | Reload settings when data.json changes on disk; keep line breaks in property descriptions; keep missing values empty with a value mapping |
+| [Leonezz/obsidian-tasks-calendar-wrapper#188](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/188) | 262 | Reload settings when data.json changes on disk |
 | [TwiN/gatus#1200](https://github.com/TwiN/gatus/pull/1200) | 12211 | Telegram alert link formatting + test |
 | [dword-design/eslint-plugin-import-alias#220](https://github.com/dword-design/eslint-plugin-import-alias/pull/220) | 120 | Handle barrel files + tests |
 | [kvesteri/sqlalchemy-utils#358](https://github.com/kvesteri/sqlalchemy-utils/pull/358) | 1346 | Fix Babel existence check |
@@ -81,6 +85,7 @@
 | [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) | 4389 | [#196](https://github.com/jeffkaufman/icdiff/pull/196) |
 | [zeromq/pyzmq](https://github.com/zeromq/pyzmq) | 4177 | [#1656](https://github.com/zeromq/pyzmq/pull/1656) |
 | [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) | 4100 | [#825](https://github.com/prettier/prettier-eslint/pull/825) |
+| [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | 4059 | [#4098](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/4098) |
 | [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) | 3947 | [#991](https://github.com/sehmaschine/django-grappelli/pull/991) |
 | [pika/pika](https://github.com/pika/pika) | 3888 | [#1344](https://github.com/pika/pika/pull/1344) |
 | [ponyorm/pony](https://github.com/ponyorm/pony) | 3818 | [#637](https://github.com/ponyorm/pony/pull/637) |
@@ -187,8 +192,10 @@
 | [authlib/loginpass](https://github.com/authlib/loginpass) | 320 | [#5](https://github.com/authlib/loginpass/pull/5) [#9](https://github.com/authlib/loginpass/pull/9) |
 | [johnpaulett/python-hl7](https://github.com/johnpaulett/python-hl7) | 318 | [#45](https://github.com/johnpaulett/python-hl7/pull/45) |
 | [JMPerez/passport-spotify](https://github.com/JMPerez/passport-spotify) | 315 | [#76](https://github.com/JMPerez/passport-spotify/pull/76) |
+| [Leonezz/obsidian-tasks-calendar-wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | 262 | [#188](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/188) [#189](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/189) [#191](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/191) |
 | [cloudinary/pycloudinary](https://github.com/cloudinary/pycloudinary) | 262 | [#312](https://github.com/cloudinary/pycloudinary/pull/312) |
 | [python-hyper/uritemplate](https://github.com/python-hyper/uritemplate) | 246 | [#78](https://github.com/python-hyper/uritemplate/pull/78) |
+| [dsebastien/obsidian-life-tracker-base-view](https://github.com/dsebastien/obsidian-life-tracker-base-view) | 242 | [#173](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/173) [#174](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/174) [#175](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/175) [#176](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/176) |
 | [PSeitz/ts-dependency-graph](https://github.com/PSeitz/ts-dependency-graph) | 214 | [#21](https://github.com/PSeitz/ts-dependency-graph/pull/21) |
 | [python-hyper/rfc3986](https://github.com/python-hyper/rfc3986) | 189 | [#87](https://github.com/python-hyper/rfc3986/pull/87) |
 | [dword-design/eslint-plugin-import-alias](https://github.com/dword-design/eslint-plugin-import-alias) | 120 | [#220](https://github.com/dword-design/eslint-plugin-import-alias/pull/220) |
