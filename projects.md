@@ -113,6 +113,7 @@
 - OREH — task graph and time tracker: tasks as a tree with timers, tags, due dates and recurring tasks ([frontend](https://github.com/andriyor/oreh-front), [backend](https://github.com/andriyor/oreh-backend))
 - [airtable-wrapper](https://github.com/andriyor/airtable-wrapper) — move tables across Airtable bases ([airtable-shortcuts](https://github.com/andriyor/airtable-shortcuts))
 - [toggl-wrapper](https://github.com/andriyor/toggl-wrapper), [toggl-wrapper-python](https://github.com/andriyor/toggl-wrapper-python) — Toggl API wrappers
+- [toggl-lock](https://github.com/andriyor/toggl-lock) — running Toggl Track timer as an iPhone Live Activity on the Lock Screen, kept live by a small APNs push server (SwiftUI, Node.js)
 - [toggl-compatible-api](https://github.com/andriyor/toggl-compatible-api) — Toggl-compatible API (WIP)
 
 ## Finance

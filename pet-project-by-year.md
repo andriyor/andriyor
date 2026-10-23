@@ -9,6 +9,8 @@
 
 [obsidian-toggl-tasks: Obsidian plugin that starts Toggl Track timers from tasks and writes tracked time back to the note](https://github.com/andriyor/obsidian-toggl-tasks)
 
+[toggl-lock: Your running Toggl Track timer as an iPhone Live Activity on the Lock Screen, kept live by a small APNs push server](https://github.com/andriyor/toggl-lock)
+
 [astro-obsidian-base: Render Obsidian Bases (.base) tables in Astro sites](https://github.com/andriyor/astro-obsidian-base)
 
 [Obsidian-Big-Calendar: Big Calendar Obsidian plugin fork with tag colors and fixes](https://github.com/andriyor/Obsidian-Big-Calendar)
