@@ -7,6 +7,8 @@
 
 [obsidian-todo-sidebar: Obsidian plugin that lists the checkboxes of the currently open note in a sidebar, with click-to-toggle and click-to-jump.](https://github.com/andriyor/obsidian-todo-sidebar)
 
+[obsidian-toggl-tasks: Obsidian plugin that starts Toggl Track timers from tasks and writes tracked time back to the note](https://github.com/andriyor/obsidian-toggl-tasks)
+
 [astro-obsidian-base: Render Obsidian Bases (.base) tables in Astro sites](https://github.com/andriyor/astro-obsidian-base)
 
 [Obsidian-Big-Calendar: Big Calendar Obsidian plugin fork with tag colors and fixes](https://github.com/andriyor/Obsidian-Big-Calendar)

@@ -59,6 +59,7 @@
 ## Notes & markdown
 
 - [obsidian-todo-sidebar](https://github.com/andriyor/obsidian-todo-sidebar) — Obsidian plugin listing the current note's checkboxes in a sidebar
+- [obsidian-toggl-tasks](https://github.com/andriyor/obsidian-toggl-tasks) — Obsidian plugin that starts Toggl Track timers from tasks and writes tracked time back to the note
 - [astro-obsidian-base](https://github.com/andriyor/astro-obsidian-base) — render Obsidian Bases (.base) tables in Astro sites
 - [Obsidian-Big-Calendar](https://github.com/andriyor/Obsidian-Big-Calendar) — Big Calendar Obsidian plugin fork with tag colors and fixes
 - [remark-youtube](https://github.com/andriyor/remark-youtube) — Remark plugin converting YouTube embeds to Markdown thumbnails
