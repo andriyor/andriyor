@@ -3,7 +3,7 @@
 | PR | Stars | What |
 |---|---|---|
 | [dsebastien/obsidian-life-tracker-base-view#176](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/176) | 242 | Optional auto-advance of capture after picking a value |
-| [Leonezz/obsidian-tasks-calendar-wrapper#189](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/189) [#191](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/191) | 262 | Newest-dates-first option; exclude tasks of notes by frontmatter property value |
+| [Leonezz/obsidian-tasks-calendar-wrapper#189](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/189) [#191](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/191) [#263](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/263) | 262 | Newest-dates-first option; exclude tasks of notes by frontmatter property value; filter the timeline by tag |
 | [usebruno/bruno#5699](https://github.com/usebruno/bruno/pull/5699) | 47293 | Save response to the request's directory by default |
 | [vitest-dev/eslint-plugin-vitest#770](https://github.com/vitest-dev/eslint-plugin-vitest/pull/770) | 512 | New lint rule `prefer-import-in-mock` + docs + tests |
 | [dmtrKovalenko/date-io#445](https://github.com/dmtrKovalenko/date-io/pull/445) [#447](https://github.com/dmtrKovalenko/date-io/pull/447) [#444](https://github.com/dmtrKovalenko/date-io/pull/444) | 755 | New API (units in `diff`, utils by units, `getDaysInMonth`) across all date adapters + tests |
@@ -192,7 +192,7 @@
 | [authlib/loginpass](https://github.com/authlib/loginpass) | 320 | [#5](https://github.com/authlib/loginpass/pull/5) [#9](https://github.com/authlib/loginpass/pull/9) |
 | [johnpaulett/python-hl7](https://github.com/johnpaulett/python-hl7) | 318 | [#45](https://github.com/johnpaulett/python-hl7/pull/45) |
 | [JMPerez/passport-spotify](https://github.com/JMPerez/passport-spotify) | 315 | [#76](https://github.com/JMPerez/passport-spotify/pull/76) |
-| [Leonezz/obsidian-tasks-calendar-wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | 262 | [#188](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/188) [#189](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/189) [#191](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/191) |
+| [Leonezz/obsidian-tasks-calendar-wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper) | 262 | [#188](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/188) [#189](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/189) [#191](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/191) [#263](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper/pull/263) |
 | [cloudinary/pycloudinary](https://github.com/cloudinary/pycloudinary) | 262 | [#312](https://github.com/cloudinary/pycloudinary/pull/312) |
 | [python-hyper/uritemplate](https://github.com/python-hyper/uritemplate) | 246 | [#78](https://github.com/python-hyper/uritemplate/pull/78) |
 | [dsebastien/obsidian-life-tracker-base-view](https://github.com/dsebastien/obsidian-life-tracker-base-view) | 242 | [#173](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/173) [#174](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/174) [#175](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/175) [#176](https://github.com/dsebastien/obsidian-life-tracker-base-view/pull/176) |
