@@ -15,11 +15,21 @@
 
 [Obsidian-Big-Calendar: Big Calendar Obsidian plugin fork with tag colors and fixes](https://github.com/andriyor/Obsidian-Big-Calendar)
 
+[ble-probe: bleak scripts for scanning BLE devices and watching their notifications](https://github.com/andriyor/ble-probe)
+
+[ff2async: Codemod that rewrites ff flow-control chains to async/await, skipping chains it can't convert without a behaviour change](https://github.com/andriyor/ff2async)
+
+[ff-behavior: How the ff async flow-control library actually behaves, as runnable tests, plus a skill for migrating ff to async/await](https://github.com/andriyor/ff-behavior)
+
+[eagle-export: Import an Eagle library into Karakeep, Raindrop.io or Resurf](https://github.com/andriyor/eagle-export)
+
 
 ### 2025
 [oreh-front: Task graph and time tracker: tree of tasks with timers, tags, due dates and recurring tasks](https://github.com/andriyor/oreh-front)
 
 [oreh-backend: API for OREH task graph and time tracker on Fastify and PostgreSQL](https://github.com/andriyor/oreh-backend)
+
+[toggl-wrapper: Minimal Toggl Track timer: pinned projects, grouped tags, full-screen mode for phones](https://github.com/andriyor/toggl-wrapper)
 
 [remark-youtube: Remark plugin to converts YouTube embed to a Markdown thumbnail](https://github.com/andriyor/remark-youtube)
 

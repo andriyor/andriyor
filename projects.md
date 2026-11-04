@@ -15,12 +15,14 @@
 - linkorg — bookmark manager ([backend](https://github.com/andriyor/linkorg-backend), [nest](https://github.com/andriyor/linkorg-nest), [next](https://github.com/andriyor/linkorg-next), [react](https://github.com/andriyor/linkorg-react), [react-new](https://github.com/andriyor/linkorg-react-new), [frontend](https://github.com/andriyor/linkorg-frontend))
 - [bookmarks2fs](https://github.com/andriyor/bookmarks2fs) — bookmarks to file system
 - [android-chrome-tab-export](https://github.com/andriyor/android-chrome-tab-export) — export open tabs from Chrome on Android
+- [eagle-export](https://github.com/andriyor/eagle-export) — import an Eagle library into Karakeep, Raindrop.io or Resurf
 
 ## AST, codemods & code analysis
 
 - [ts-tree](https://github.com/andriyor/ts-tree) ★5 — module tree from a given entrypoint ([ts-tree-cli](https://github.com/andriyor/ts-tree-cli))
 - [coverage-tree-next](https://github.com/andriyor/coverage-tree-next) — visualize dependency tree of a TypeScript project ([coverage-tree-vite](https://github.com/andriyor/coverage-tree-vite))
 - [jest2vitest](https://github.com/andriyor/jest2vitest) — migrate Jest tests to Vitest
+- [ff2async](https://github.com/andriyor/ff2async) — codemod rewriting `ff` flow-control chains to async/await, reporting chains it can't convert safely ([ff-behavior](https://github.com/andriyor/ff-behavior) documents how `ff` actually behaves as runnable tests, plus a migration skill)
 - [default2namedExport](https://github.com/andriyor/default2namedExport) — convert default exports to named exports
 - [css-modules-migration](https://github.com/andriyor/css-modules-migration) — migrate CSS to CSS modules
 - [duplicated-css-selectors](https://github.com/andriyor/duplicated-css-selectors) — find duplicated CSS selectors
@@ -80,6 +82,7 @@
 ## Hardware & IoT
 
 - [KlipschControl](https://github.com/andriyor/KlipschControl) — fast, simple iOS remote control for Klipsch The Fives, Sevens and Nines speakers over Bluetooth LE (SwiftUI, CoreBluetooth)
+- [ble-probe](https://github.com/andriyor/ble-probe) — bleak scripts for scanning BLE devices and watching their notifications, used to figure out the Klipsch protocol
 - [hacs_waveshare_ups_hat](https://github.com/andriyor/hacs_waveshare_ups_hat) — fork of the Home Assistant Waveshare UPS HAT integration adding UPS HAT (E) support, tested on a Raspberry Pi 5 ([upstream PR](https://github.com/mykhailog/hacs_waveshare_ups_hat/pull/24))
 - [knob-to-key](https://github.com/andriyor/knob-to-key) — rotary encoder to keyboard input via Linux evdev
 - [dht11-kafka](https://github.com/andriyor/dht11-kafka) — DHT11 sensor data to Kafka
@@ -112,7 +115,8 @@
 
 - OREH — task graph and time tracker: tasks as a tree with timers, tags, due dates and recurring tasks ([frontend](https://github.com/andriyor/oreh-front), [backend](https://github.com/andriyor/oreh-backend))
 - [airtable-wrapper](https://github.com/andriyor/airtable-wrapper) — move tables across Airtable bases ([airtable-shortcuts](https://github.com/andriyor/airtable-shortcuts))
-- [toggl-wrapper](https://github.com/andriyor/toggl-wrapper), [toggl-wrapper-python](https://github.com/andriyor/toggl-wrapper-python) — Toggl API wrappers
+- [toggl-wrapper](https://github.com/andriyor/toggl-wrapper) — minimal, faster Toggl Track front end: pinned projects, grouped `group:tag` tags, full-screen timer mode for phones
+- [toggl-wrapper-python](https://github.com/andriyor/toggl-wrapper-python) — Toggl API wrapper
 - [toggl-lock](https://github.com/andriyor/toggl-lock) — running Toggl Track timer as an iPhone Live Activity on the Lock Screen, kept live by a small APNs push server (SwiftUI, Node.js)
 - [toggl-compatible-api](https://github.com/andriyor/toggl-compatible-api) — Toggl-compatible API (WIP)
 
